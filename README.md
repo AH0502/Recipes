@@ -2,9 +2,10 @@
 
 ## Overview 
 This project will showcase my foundational understanding of HTML. It will also demonstrate best practices for writing commit messages with Git.
+
 ## Tech Stack
-*HTML
-*Git
+* HTML
+* Git
 
 ## Structure 
 This website consists of a main index page which contains links to other web pages containing recipes. 
